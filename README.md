@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @introvertkernel
 - 👀 I’m interested in backend techs and writing the code to save time and automate repetitive tasks
-- 🌱 I’m currently learning desing patterns
+- 🌱 I’m currently learning design patterns
 
 <!---
 introvertkernel/introvertkernel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
